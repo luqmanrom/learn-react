@@ -6,7 +6,7 @@ class Card extends Component {
   constructor(props, context) {
     super(props, context);
 
-    //this.state = {name: 'Luqman'}
+    this.state = {}
 
   }
 
